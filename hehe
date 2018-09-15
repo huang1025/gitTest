@@ -2,4 +2,8 @@ hehe
 haha
 xixi
 cici
+<<<<<<< HEAD
 我在dev新增了一行
+=======
+我在uat增加了一行
+>>>>>>> 8b0b278946ef40cc0e7297f1085cde344915fcb1
